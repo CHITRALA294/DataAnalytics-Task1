@@ -1,0 +1,11 @@
+Missing values in Postal Code
+
+Date columns stored as strings
+
+Inconsistent category naming
+
+No derived columns (Month, Year)
+
+Profit contains negative values (loss orders)
+
+No business KPIs pre-defined
